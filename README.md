@@ -17,3 +17,5 @@ Hello, I'm Felpzsouls, this is my GitHub profile, I'm a learning developer.
 [Html Clock](https://github.com/Felpzsoul/Clock)
 
 [NodeJs Discord OAuth](https://github.com/Felpzsoul/Discord-OAuth)
+
+[Discord Bot](https://github.com/Felpzsoul/Discord-bot)
